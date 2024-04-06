@@ -1,0 +1,7 @@
+C:\Users\Vaqif\Desktop\C#\LogReg\LogReg\bin\Debug\LogReg.exe.config
+C:\Users\Vaqif\Desktop\C#\LogReg\LogReg\bin\Debug\LogReg.exe
+C:\Users\Vaqif\Desktop\C#\LogReg\LogReg\bin\Debug\LogReg.pdb
+C:\Users\Vaqif\Desktop\C#\LogReg\LogReg\obj\Debug\LogReg.csproj.AssemblyReference.cache
+C:\Users\Vaqif\Desktop\C#\LogReg\LogReg\obj\Debug\LogReg.csproj.CoreCompileInputs.cache
+C:\Users\Vaqif\Desktop\C#\LogReg\LogReg\obj\Debug\LogReg.exe
+C:\Users\Vaqif\Desktop\C#\LogReg\LogReg\obj\Debug\LogReg.pdb
